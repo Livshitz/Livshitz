@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="500" height="500">
-  <text id="Frame-0" font-family="monospace" visibility="hidden">
+  <text id="Frame-0" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">              ``         *                                                         </tspan>
     <tspan dy="1.2em" x="0">                                       ,  `                ~*                      </tspan>
     <tspan dy="1.2em" x="0">                                       *                ,,                         </tspan>
@@ -35,7 +35,7 @@
     <tspan dy="1.2em" x="0">                                                               `                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-1" font-family="monospace" visibility="hidden">
+  <text id="Frame-1" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
@@ -70,7 +70,7 @@
     <tspan dy="1.2em" x="0">                                                   *                               </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-2" font-family="monospace" visibility="hidden">
+  <text id="Frame-2" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                           ``                                      </tspan>
     <tspan dy="1.2em" x="0">                                                                            \~     </tspan>
     <tspan dy="1.2em" x="0">                                                     ,,                            </tspan>
@@ -105,7 +105,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-3" font-family="monospace" visibility="hidden">
+  <text id="Frame-3" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">          ;                                          _                             </tspan>
     <tspan dy="1.2em" x="0">          |*                                          ``                           </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
@@ -140,7 +140,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-4" font-family="monospace" visibility="hidden">
+  <text id="Frame-4" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                               | * </tspan>
     <tspan dy="1.2em" x="0">                                                                               * * </tspan>
     <tspan dy="1.2em" x="0">                                                                               *   </tspan>
@@ -175,7 +175,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-5" font-family="monospace" visibility="hidden">
+  <text id="Frame-5" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">            :                                             ;,                       </tspan>
@@ -210,7 +210,7 @@
     <tspan dy="1.2em" x="0">                                                                 |   ,             </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-6" font-family="monospace" visibility="hidden">
+  <text id="Frame-6" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">               ,                                                                   </tspan>
     <tspan dy="1.2em" x="0">              ||     ||                                                            </tspan>
     <tspan dy="1.2em" x="0">              ``                                                                   </tspan>
@@ -245,7 +245,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-7" font-family="monospace" visibility="hidden">
+  <text id="Frame-7" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">  |                                  ||                                            </tspan>
     <tspan dy="1.2em" x="0">                 ~                   `'                                  '         </tspan>
     <tspan dy="1.2em" x="0">                                                               ,,                  </tspan>
@@ -280,7 +280,7 @@
     <tspan dy="1.2em" x="0">                                                                         \         </tspan>
     <tspan dy="1.2em" x="0">                                                                         *         </tspan>
   </text>
-  <text id="Frame-8" font-family="monospace" visibility="hidden">
+  <text id="Frame-8" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                         \~;       </tspan>
     <tspan dy="1.2em" x="0">                                                                         \_|       </tspan>
     <tspan dy="1.2em" x="0">                                                                   ||     ``       </tspan>
@@ -315,7 +315,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-9" font-family="monospace" visibility="hidden">
+  <text id="Frame-9" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                       _                           </tspan>
     <tspan dy="1.2em" x="0">                                                       ``                          </tspan>
     <tspan dy="1.2em" x="0">                                                                               !;  </tspan>
@@ -350,7 +350,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-10" font-family="monospace" visibility="hidden">
+  <text id="Frame-10" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                     * *`                          </tspan>
     <tspan dy="1.2em" x="0">                                                     `           ,                 </tspan>
     <tspan dy="1.2em" x="0">                                                     `           |_|               </tspan>
@@ -385,7 +385,7 @@
     <tspan dy="1.2em" x="0">                                                 _                                 </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-11" font-family="monospace" visibility="hidden">
+  <text id="Frame-11" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">   * |                 , /|                                                ,,      </tspan>
     <tspan dy="1.2em" x="0">   * *                 *                                                   ''      </tspan>
     <tspan dy="1.2em" x="0">   ` "            `    *                                                           </tspan>
@@ -420,7 +420,7 @@
     <tspan dy="1.2em" x="0">                                             ||                                    </tspan>
     <tspan dy="1.2em" x="0">                        '!                                   '                     </tspan>
   </text>
-  <text id="Frame-12" font-family="monospace" visibility="hidden">
+  <text id="Frame-12" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                          || |/                                               **   </tspan>
     <tspan dy="1.2em" x="0">                          `* ||                                                    </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
@@ -455,7 +455,7 @@
     <tspan dy="1.2em" x="0">                                         ,,                                        </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-13" font-family="monospace" visibility="hidden">
+  <text id="Frame-13" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">           ,,                                                                      </tspan>
     <tspan dy="1.2em" x="0">           ||                                                                      </tspan>
@@ -490,7 +490,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">             ;                        `                                            </tspan>
   </text>
-  <text id="Frame-14" font-family="monospace" visibility="hidden">
+  <text id="Frame-14" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                _                            `*     ||             </tspan>
@@ -525,7 +525,7 @@
     <tspan dy="1.2em" x="0">                                | *                                        ,,      </tspan>
     <tspan dy="1.2em" x="0">                                                                           `*      </tspan>
   </text>
-  <text id="Frame-15" font-family="monospace" visibility="hidden">
+  <text id="Frame-15" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                              * || </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
@@ -560,7 +560,7 @@
     <tspan dy="1.2em" x="0">                                                      / *                          </tspan>
     <tspan dy="1.2em" x="0">                                                      * *                          </tspan>
   </text>
-  <text id="Frame-16" font-family="monospace" visibility="hidden">
+  <text id="Frame-16" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
@@ -595,7 +595,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-17" font-family="monospace" visibility="hidden">
+  <text id="Frame-17" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">           ||                                                                      </tspan>
     <tspan dy="1.2em" x="0">           `'                                  ||                                  </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
@@ -630,7 +630,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-18" font-family="monospace" visibility="hidden">
+  <text id="Frame-18" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                          |!                     ||                </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                           \|                                      </tspan>
@@ -665,7 +665,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-19" font-family="monospace" visibility="hidden">
+  <text id="Frame-19" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                    ;;                       ``                    </tspan>
     <tspan dy="1.2em" x="0">                                               ,,                                  </tspan>
     <tspan dy="1.2em" x="0">                                               ||                                  </tspan>
@@ -700,7 +700,7 @@
     <tspan dy="1.2em" x="0">             '                                                                     </tspan>
     <tspan dy="1.2em" x="0">                                                                !*                 </tspan>
   </text>
-  <text id="Frame-20" font-family="monospace" visibility="hidden">
+  <text id="Frame-20" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">` '                                                                                </tspan>
     <tspan dy="1.2em" x="0">                   *    ||,                                                        </tspan>
     <tspan dy="1.2em" x="0">                        "| | ;          '                          '   \,          </tspan>
@@ -735,7 +735,7 @@
     <tspan dy="1.2em" x="0">     ;                                                   ,                         </tspan>
     <tspan dy="1.2em" x="0">                ;;           ,                                                     </tspan>
   </text>
-  <text id="Frame-21" font-family="monospace" visibility="hidden">
+  <text id="Frame-21" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                                \` </tspan>
     <tspan dy="1.2em" x="0">                                                                                *` </tspan>
     <tspan dy="1.2em" x="0">                                                                                *  </tspan>
@@ -770,7 +770,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-22" font-family="monospace" visibility="hidden">
+  <text id="Frame-22" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">          ~                                        _                               </tspan>
     <tspan dy="1.2em" x="0">      |                                                                            </tspan>
     <tspan dy="1.2em" x="0">    | |                                                                            </tspan>
@@ -805,7 +805,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-23" font-family="monospace" visibility="hidden">
+  <text id="Frame-23" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                       **                                      | ` !'              </tspan>
     <tspan dy="1.2em" x="0">                                       ;;                                          </tspan>
     <tspan dy="1.2em" x="0">                               ;;                                                  </tspan>
@@ -840,7 +840,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-24" font-family="monospace" visibility="hidden">
+  <text id="Frame-24" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                 ,,                   '!                                           </tspan>
     <tspan dy="1.2em" x="0">          ,      ''                                                                </tspan>
     <tspan dy="1.2em" x="0">                                                                ''                 </tspan>
@@ -875,7 +875,7 @@
     <tspan dy="1.2em" x="0">                                                                          |~       </tspan>
     <tspan dy="1.2em" x="0">                                |                                                  </tspan>
   </text>
-  <text id="Frame-25" font-family="monospace" visibility="hidden">
+  <text id="Frame-25" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0"> |                                   +                                             </tspan>
     <tspan dy="1.2em" x="0"> / .                                                         *                     </tspan>
     <tspan dy="1.2em" x="0"> ; *                                                                               </tspan>
@@ -910,7 +910,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                     ,             </tspan>
   </text>
-  <text id="Frame-26" font-family="monospace" visibility="hidden">
+  <text id="Frame-26" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                   =   |                           </tspan>
     <tspan dy="1.2em" x="0">                                                   |   '                           </tspan>
     <tspan dy="1.2em" x="0">                                                   +   -                           </tspan>
@@ -945,7 +945,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-27" font-family="monospace" visibility="hidden">
+  <text id="Frame-27" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
@@ -980,7 +980,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-28" font-family="monospace" visibility="hidden">
+  <text id="Frame-28" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                              |  |                 </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
@@ -1015,7 +1015,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-29" font-family="monospace" visibility="hidden">
+  <text id="Frame-29" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                            "      </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
@@ -1050,7 +1050,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-30" font-family="monospace" visibility="hidden">
+  <text id="Frame-30" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                                   ,~              </tspan>
     <tspan dy="1.2em" x="0">                                                         ,,        ^ `             </tspan>
     <tspan dy="1.2em" x="0">                                                ;;       ``                        </tspan>
@@ -1085,7 +1085,7 @@
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
     <tspan dy="1.2em" x="0">                                                                                   </tspan>
   </text>
-  <text id="Frame-31" font-family="monospace" visibility="hidden">
+  <text id="Frame-31" font-family="monospace" visibility="hidden" fill="#7B33D4">
     <tspan dy="1.2em" x="0">                                                              |                    </tspan>
     <tspan dy="1.2em" x="0">                                                              ||                   </tspan>
     <tspan dy="1.2em" x="0">                                                              |*                   </tspan>
