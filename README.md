@@ -1,4 +1,4 @@
-### coding in the null ⌨️
+### coding in void ⌨️
 ![](https://komarev.com/ghpvc/?username=Livshitz&color=blue)
 
 <a href="#user-profile-frame">
